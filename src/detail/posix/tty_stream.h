@@ -4,6 +4,7 @@
 #include "../../../deps/luacppbridge51/lcbHybridObjectWithProperties.h"
 
 #include <termios.h>
+#include <boost/array.hpp>
 #include <boost/asio.hpp>
 
 namespace LuaNode {
